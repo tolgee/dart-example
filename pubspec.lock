@@ -162,6 +162,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.5"
+  dart2_constant:
+    dependency: transitive
+    description:
+      name: dart2_constant
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2+dart2"
   dart_style:
     dependency: transitive
     description:
@@ -169,6 +176,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.3.10"
+  dotenv:
+    dependency: "direct dev"
+    description:
+      name: dotenv
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
   file:
     dependency: transitive
     description:
@@ -414,6 +428,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.1+3"
+  tolgee:
+    dependency: "direct dev"
+    description:
+      path: "../../dart"
+      relative: true
+    source: path
+    version: "0.0.0"
   typed_data:
     dependency: transitive
     description:

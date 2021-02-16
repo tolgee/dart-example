@@ -7,3 +7,6 @@ build/
 
 # Directory created by dartdoc
 doc/api/
+dart.tolgee.dart-example.iml.env*
+web/env.dart
+dart.tolgee.dart-example.iml
