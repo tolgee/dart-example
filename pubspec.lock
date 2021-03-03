@@ -431,10 +431,10 @@ packages:
   tolgee:
     dependency: "direct dev"
     description:
-      path: "../../dart"
-      relative: true
-    source: path
-    version: "0.0.0"
+      name: tolgee
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
   typed_data:
     dependency: transitive
     description:
