@@ -1,6 +1,7 @@
 import 'dart:html';
 
 import 'package:tolgee/tolgee.dart';
+
 import 'env.dart';
 
 Future<void> main() async {
@@ -38,9 +39,7 @@ Future<void> main() async {
   //refresh page on language change
   tolgee.onLangChange(() {
     tolgee.translate('hello_world');
-    tolgee.onLangLoaded(() {
-      render();
-    });
+    render();
   });
 
   //render page for the first time
